@@ -2,3 +2,15 @@ h1 {
   text-align: center;
   color: blueviolet;
 }
+
+img {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact-btn {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+}
